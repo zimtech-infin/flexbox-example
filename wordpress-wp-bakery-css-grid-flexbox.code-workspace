@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../wordpress-wp-bakery-css-grid-flexbox"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../css-grid-example"
+		}
+	],
+	"settings": {}
+}
